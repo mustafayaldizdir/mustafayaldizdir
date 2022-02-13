@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.
 
 <!-- Icons -->
 
